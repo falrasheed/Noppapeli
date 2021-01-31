@@ -1,1 +1,1 @@
-# Noppapeli // DOM Manipulation // Functional Programming
+DOM Manipulation / Functional Programming
